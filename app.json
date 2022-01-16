@@ -1,0 +1,53 @@
+{
+    "name": "ANKIT VC ASSISTANT",
+    "description": "A SIMPLE TELEGRAM BOT TO PLAY MUSIC IN VOICE CHAT,MADE WITH LOVE BY ©ANKIT™",
+    "logo": "https://telegra.ph/file/5c61dd2bfd9c2b5477802.jpg",
+    "keywords": [
+        "Telegram",
+        "VCBot",
+        "MusicPlayer"
+    ],
+    "repository": "https://github.com/NVS-ANKIT/ANKIT-VC-ASSISTANT/",
+    "env": {
+        "SESSION": {
+            "description": "Pyrogram String Session",
+            "required": true
+        },
+        "API_ID": {
+            "description": "my.telegram.org",
+            "value": "14627413",
+            "required": true
+        },
+        "API_HASH": {
+            "description": "my.telegram.org",
+            "value": "4d5ff4db45a7e931930d0c923a7fb295",
+            "required": true
+        },
+        "HNDLR": {
+            "description": "Handler | Default (!)",
+            "value": "!",
+            "required": false 
+        },
+        "GROUP_MODE": {
+            "description": "Leave as it is",
+            "value": "True",
+            "required": true 
+        }
+    },
+    "addons": [],
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        },
+        {
+            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    },
+    "stack": "container"
+}
