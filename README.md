@@ -5,10 +5,9 @@
 [![fork's](https://img.shields.io/github/forks/NVS-OS/ANKIT-VC-ASSISTANT?label=Forks&logoColor=Black&style=social)](https://github.com/NVS-OS)
 [![Star's](https://img.shields.io/github/stars/NVS-OS/ANKIT-VC-ASSISTANT?logoColor=Blue&style=social)](https://github.com/NVS-OS)
 
-<details>
-  <summary> • ⚡INSTALLING⚡ • </summary>
-  <a href="https://heroku.com/deploy?template=https://github.com/NVS-OS/ANKIT-VC-ASSISTANT"><img src="https://www.herokucdn.com/deploy/button.svg"></a>  
-</details>
+## INSTALLING
+
+[![Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NVS-OS/ANKIT-VC-ASSISTANT)
 
 
 ## Variables
