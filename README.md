@@ -10,11 +10,6 @@
   <a href="https://heroku.com/deploy?template=https://github.com/NVS-OS/ANKIT-VC-ASSISTANT"><img src="https://www.herokucdn.com/deploy/button.svg"></a>  
 </details>
 
-<details>
-  <summary> • ✅OFFICIAL SUPPORTS✅ • </summary>
-<a href="https://github.com/NVS-OS"><img src="https://img.shields.io/badge/FOLLOW%20ME%20ON-GITHUB-black.svg?style=for-the-badge&logo=github"></a>
-</details> 
-
 
 ## Variables
 
