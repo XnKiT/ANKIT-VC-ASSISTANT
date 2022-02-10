@@ -7,7 +7,7 @@
         "VCBot",
         "MusicPlayer"
     ],
-    "repository": "https://github.com/NVS-ANKIT/ANKIT-VC-ASSISTANT/",
+    "repository": "https://github.com/xNKIT/ANKIT-VC-ASSISTANT/",
     "env": {
         "SESSION": {
             "description": "Pyrogram String Session",
