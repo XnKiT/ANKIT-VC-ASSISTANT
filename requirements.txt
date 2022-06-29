@@ -1,7 +1,11 @@
-TgCrypto
-git+https://github.com/pyrogram/pyrogram@master
-py-tgcalls==0.8.1
-asyncio
-youtube-search-python
-youtube-dl
+pytube
+pillow
+spotipy
+aiohttp
+aiofiles
+pyrogram==1.4.16
+tgcrypto
 python-dotenv
+py-tgcalls==0.8.2
+youtube-search-python
+git+https://github.com/LEGEND-AI/downloader
